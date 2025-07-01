@@ -32,7 +32,7 @@ DEEPSEEK_API_KEY=sk-... (sua chave aqui)
 pip install -r requirements.txt
 ```
 
-4. Coloque o arquivo `manutencao_industrial.db` na raiz do projeto.
+4. Certifique-se de que o arquivo manutencao_industrial.db esteja na raiz do projeto.
 
 5. Execute a aplicação de uma das seguintes formas:
 
@@ -84,7 +84,7 @@ jupyter notebook
 
 ### 📎 Arquitetura da Solução
 
-Um diagrama ilustrando a arquitetura do sistema está incluído no repositório em formato .pdf. Ele descreve:
+Um diagrama ilustrando a arquitetura do sistema está incluído no repositório em formato .png. Ele descreve:
 
 - O fluxo de entrada da pergunta até a resposta final;
 - Os principais componentes da aplicação (LLM, executor SQL, interface);
