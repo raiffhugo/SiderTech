@@ -18,8 +18,8 @@ Tecnologias utilizadas:
 
 1. Clone o repositório e entre na pasta do projeto:
 ```bash
-git clone <seu-repo>
-cd <seu-repo>
+git clone https://github.com/raiffhugo/SiderTech.git
+cd SiderTech
 ```
 
 2. Crie o arquivo `.env` com sua chave da DeepSeek:
