@@ -100,4 +100,4 @@ Um diagrama ilustrando a arquitetura do sistema está incluído no repositório 
 ├── manutencao_industrial.db # Banco de dados SQLite com dados fornecidos
 ├── README.md                # Documentação geral do projeto
 ├── requirements.txt         # Dependências e versões necessárias
-└── sidertech.ipynb          # Notebook Jupyter com análises e protótipos
+└── sidertech.ipynb          # Aplicação principal em Notebook Jupyter
