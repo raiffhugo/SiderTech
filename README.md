@@ -92,11 +92,12 @@ Um diagrama ilustrando a arquitetura do sistema está incluído no repositório 
 
 ### 📂 Estrutura do Projeto
 
+```plaintext
 .
-├── .env                      # Exemplo de arquivo de ambiente
-├── app.py                    # Interface principal em Streamlit
-├── grafo.png           # Diagrama da solução
-├── manutencao_industrial.db  # Banco de dados fornecido
-├── README.md
-├── requirements.txt
-└── sidertech.ipynb           # Interface principal em Jupyter Notebook
+├── .env                     # Exemplo de variáveis de ambiente
+├── app.py                   # Aplicação principal em Streamlit
+├── grafo.png                # Diagrama ilustrativo da solução
+├── manutencao_industrial.db # Banco de dados SQLite com dados fornecidos
+├── README.md                # Documentação geral do projeto
+├── requirements.txt         # Dependências e versões necessárias
+└── sidertech.ipynb          # Notebook Jupyter com análises e protótipos
